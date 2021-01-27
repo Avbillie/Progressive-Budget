@@ -14,13 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://vanessathi.github.io/ProgressiveBudget/"
+    "url": "https://github.com/Avbillie/Progressive-Budget/"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
-  },
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
